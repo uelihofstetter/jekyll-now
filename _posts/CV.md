@@ -1,0 +1,6 @@
+---
+layout: post
+title: CV
+---
+
+You can download my CV <a href="https://github.com/uelihofstetter/CV/raw/master/mc/CV_Hofstetter.pdf.zip">here</a>
